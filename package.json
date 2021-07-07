@@ -1,0 +1,22 @@
+{
+  "name": "yousurfer",
+  "version": "1.0.0",
+  "description": "a youtube enhancer",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alphataur/yousurfer.git"
+  },
+  "author": "Nikhil Surya Mukhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alphataur/yousurfer/issues"
+  },
+  "homepage": "https://github.com/alphataur/yousurfer#readme",
+  "dependencies": {
+    "ytdl-core": "^4.8.3"
+  }
+}
